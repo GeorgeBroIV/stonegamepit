@@ -32731,7 +32731,7 @@ var render = function() {
                   staticClass:
                     "font-semibold text-xl text-gray-800 leading-tight"
                 },
-                [_vm._v("\n            My Dashboard\n        ")]
+                [_vm._v("\n            The Dashboard\n        ")]
               )
             ]
           },
