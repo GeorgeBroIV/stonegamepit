@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/stonepla/stonepitgames.com/
+    - export DEPLOYPATH=/home/stonepla/stonegamepit.com/
     - /bin/cp -R * $DEPLOYPATH
